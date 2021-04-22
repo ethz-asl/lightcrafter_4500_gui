@@ -19,4 +19,4 @@ Built successfully with Qt 5.9.5 (GCC 7.3.0, 64 bit)
 
 **Pattern Uploading Instructions**
 
-Refer to the wiki page on how to upload patterns onto the SL Sensor
+Refer to pattern_upload_instructions.pdf
