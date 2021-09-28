@@ -1,5 +1,6 @@
 # lightcrafter_4500_gui
-Source Code for Lightcrafter 4500 GUI v4.0.0
+Source Code for Lightcrafter 4500 GUI v4.0.0 
+This is used to upload patterns onto Lightcrafter 4500 Projector
 
 **Build Requirements**
 Built successfully with Qt 5.9.5 (GCC 7.3.0, 64 bit)
@@ -17,6 +18,3 @@ Built successfully with Qt 5.9.5 (GCC 7.3.0, 64 bit)
 3. Launch the application
 > sudo ./LightCrafter4500
 
-**Pattern Uploading Instructions**
-
-Refer to pattern_upload_instructions.pdf
